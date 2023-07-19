@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1686258735;s:6:"expire";i:1717794735;s:4:"tags";s:60:"0ac_ROBOTS_INDEX_INDEX,0ac_LAYOUT_GENERAL_CACHE_TAG,0ac_MAGE";}
+{"pageLayout":"robots","layout":"<body>\n   <referenceContainer name=\"root\">\n      <block class=\"Magento\\Robots\\Block\\Data\" name=\"robotsData\"\/>\n   <\/referenceContainer>\n<\/body>\n<body>\n   <referenceContainer name=\"root\">\n      <block class=\"Magento\\Sitemap\\Block\\Robots\" name=\"sitemapRobotsLinks\"\/>\n   <\/referenceContainer>\n<\/body>\n"}
